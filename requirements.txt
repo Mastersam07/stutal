@@ -138,7 +138,7 @@ pandas==0.25.0
 pandocfilters==1.4.2
 parso==0.5.1
 pickleshare==0.7.5
-Pillow==6.1.0
+pillow>=6.2.2
 pipenv==2018.11.26
 plotly==4.1.1
 pluggy==0.13.0
