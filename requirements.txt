@@ -148,7 +148,7 @@ psutil==5.6.6
 psycopg2==2.8.4
 py==1.8.0
 pycparser==2.19
-Pygments==2.4.2
+Pygments==2.7.4
 PyJWT==1.7.1
 pyparsing==2.4.0
 pyrsistent==0.15.3
