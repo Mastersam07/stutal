@@ -75,7 +75,7 @@ djangocms-apphook-setup==0.3.0
 djangocms-attributes-field==1.1.0
 djangocms-blog==0.9.11
 djangocms-text-ckeditor==3.8.0
-djangorestframework==3.10.2
+djangorestframework==3.11.2
 djangorestframework-jwt==1.11.0
 docutils==0.15.2
 easy-thumbnails==2.6
