@@ -97,7 +97,7 @@ idna==2.8
 imbalanced-learn==0.5.0
 importlib-metadata==0.23
 ipykernel==5.1.1
-ipython==5.0.0
+ipython==7.16.3
 ipython-genutils==0.2.0
 ipywidgets==7.5.0
 itypes==1.1.0
