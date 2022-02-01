@@ -139,7 +139,7 @@ pandocfilters==1.4.2
 parso==0.5.1
 pickleshare==0.7.5
 pillow>=6.2.2
-pipenv==2018.11.26
+pipenv==2022.1.8
 plotly==4.1.1
 pluggy==0.13.0
 prometheus-client==0.7.1
