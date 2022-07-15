@@ -28,7 +28,7 @@ dask==2.5.0
 datacleaner==0.1.5
 decorator==4.4.0
 defusedxml==0.6.0
-distributed==2.5.1
+distributed==2021.10.0
 dj-database-url==0.5.0
 Django==2.2.24
 django-appconf==1.0.3
